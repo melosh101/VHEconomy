@@ -1,0 +1,1237 @@
+{
+  "farmable": [
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sugar_Cane.png",
+      "item": "sugar cane",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "24"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Carrot.png",
+      "item": "carrot",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Potato.png",
+      "item": "potato",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Wheat_Seeds.png",
+      "item": "wheat seeds",
+      "amounts": "1‒4",
+      "scale": "1.2",
+      "weight": "24"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Wheat.png",
+      "item": "wheat",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Oak_Leaves.png",
+      "item": "Leaves",
+      "variations": [
+        "oak leaves",
+        "spruce leaves",
+        "birch leaves",
+        "jungle leaves",
+        "acacia leaves",
+        "dark oak leaves",
+        "azalea leaves",
+        "flowering azalea leaves",
+        "ecologics:coconut leaves",
+        "ecologics:walnut leaves",
+        "the vault:velara leaves",
+        "twigs:bamboo leaves",
+        "quark:red blossom leaves",
+        "quark:yellow blossom leaves",
+        "quark:pink blossom leaves",
+        "quark:orange blossom leaves",
+        "quark:lavender blossom leaves",
+        "quark:blue blossom leaves",
+        "architects palette:twisted leaves"
+      ],
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "24"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Kelp.png",
+      "item": "kelp",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Cactus.png",
+      "item": "cactus",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Bamboo.png",
+      "item": "bamboo",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Vine.png",
+      "item": "vine",
+      "amounts": "1‒1",
+      "scale": "0.5",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Beetroot.png",
+      "item": "beetroot",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Snowball.png",
+      "item": "snowball",
+      "amounts": "1‒4",
+      "scale": "1.2",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Pumpkin.png",
+      "item": "pumpkin",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Melon.png",
+      "item": "melon",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Azalea.png",
+      "item": "azalea saplings",
+      "variations": [
+        "flowering azalea",
+        "azalea"
+      ],
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sea_Pickle.png",
+      "item": "sea pickle",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Dandelion.png",
+      "item": "small flowers",
+      "variations": [
+        "dandelion",
+        "poppy",
+        "blue orchid",
+        "allium",
+        "azure bluet",
+        "oxeye daisy",
+        "cornflower",
+        "lily of the valley"
+      ],
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Beetroot_Seeds.png",
+      "item": "beetroot seeds",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sweet_Berries.png",
+      "item": "sweet berries",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Apple.png",
+      "item": "apple",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Seagrass.png",
+      "item": "seagrass",
+      "amounts": "1‒2",
+      "scale": "0.5",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Brown_Mushroom.png",
+      "item": "brown mushroom",
+      "amounts": "1‒2",
+      "scale": "0.6",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Red_Mushroom.png",
+      "item": "red mushroom",
+      "amounts": "1‒2",
+      "scale": "0.6",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Red_Tulip.png",
+      "item": "tulips",
+      "variations": [
+        "red tulip",
+        "orange tulip",
+        "white tulip",
+        "pink tulip"
+      ],
+      "amounts": "1‒1",
+      "scale": "0.5",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sunflower.png",
+      "item": "tall flowers",
+      "variations": [
+        "sunflower",
+        "rose bush",
+        "peony",
+        "lilac"
+      ],
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "10"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Glow_Lichen.png",
+      "item": "glow lichen",
+      "amounts": "1‒1",
+      "scale": "0.4",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Clay_Ball.png",
+      "item": "clay ball",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Brick.png",
+      "item": "brick",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Glow_Berries.png",
+      "item": "glow berries",
+      "amounts": "1‒1",
+      "scale": "0.5",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Nether_Wart.png",
+      "item": "nether wart",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Twisting_Vines.png",
+      "item": "twisting vines",
+      "amounts": "1‒1",
+      "scale": "0.4",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Weeping_Vines.png",
+      "item": "weeping vines",
+      "amounts": "1‒1",
+      "scale": "0.4",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Big_Dripleaf.png",
+      "item": "big dripleaf",
+      "amounts": "1‒1",
+      "scale": "0.5",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Crimson_Fungus.png",
+      "item": "crimson fungus",
+      "amounts": "1‒1",
+      "scale": "0.6",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Warped_Fungus.png",
+      "item": "warped fungus",
+      "amounts": "1‒1",
+      "scale": "0.6",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Chorus_Fruit.png",
+      "item": "chorus fruit",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Lily_Pad.png",
+      "item": "lily pad",
+      "amounts": "8‒64",
+      "scale": "0",
+      "weight": "3"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Wither_Rose.png",
+      "item": "wither rose",
+      "amounts": "1‒1",
+      "scale": "0.2",
+      "weight": "1"
+    }
+  ],
+  "mobs": [
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_String.png",
+      "item": "string",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8",
+			"variations": []
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Rotten_Flesh.png",
+      "item": "rotten flesh",
+      "amounts": "1‒8",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Bone.png",
+      "item": "bone",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Spider_Eye.png",
+      "item": "spider eye",
+      "amounts": "1‒3",
+      "scale": "0.8",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Arrow.png",
+      "item": "arrow",
+      "amounts": "1‒8",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Feather.png",
+      "item": "feather",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Porkchop.png",
+      "item": "porkchop",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Beef.png",
+      "item": "beef",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Chicken.png",
+      "item": "chicken",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Rabbit.png",
+      "item": "rabbit",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Slime_Ball.png",
+      "item": "slime ball",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Egg.png",
+      "item": "egg",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Leather.png",
+      "item": "leather",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Rabbit_Hide.png",
+      "item": "rabbit hide",
+      "amounts": "1‒1",
+      "scale": "0.4",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_White_Dye.png",
+      "item": "white dye, orange dye, magenta dye, light blue dye, yellow dye, lime dye, pink dye, gray dye, light gray dye, cyan dye, purple dye, blue dye, brown dye, green dye, red dye, black dye",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Poisonous_Potato.png",
+      "item": "poisonous potato",
+      "amounts": "1‒1",
+      "scale": "0.2",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Mutton.png",
+      "item": "mutton",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Salmon.png",
+      "item": "salmon",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Cod.png",
+      "item": "cod",
+      "amounts": "1‒5",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Tropical_Fish.png",
+      "item": "tropical fish",
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "5"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Cocoa_Beans.png",
+      "item": "cocoa beans",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Gunpowder.png",
+      "item": "gunpowder",
+      "amounts": "1‒6",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Honey_Bottle.png",
+      "item": "honey bottle",
+      "amounts": "1‒2",
+      "scale": "0.5",
+      "weight": "3"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Blaze_Rod.png",
+      "item": "blaze rod",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Ender_Pearl.png",
+      "item": "ender pearl",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Rabbit_Foot.png",
+      "item": "rabbit foot",
+      "amounts": "1‒16",
+      "scale": "0",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Honeycomb.png",
+      "item": "honeycomb",
+      "amounts": "1‒3",
+      "scale": "0.5",
+      "weight": "3"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Ink_Sac.png",
+      "item": "ink sac",
+      "amounts": "1‒5",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Glow_Ink_Sac.png",
+      "item": "glow ink sac",
+      "amounts": "1‒1",
+      "scale": "0.2",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Pufferfish.png",
+      "item": "pufferfish",
+      "amounts": "1‒32",
+      "scale": "0",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Ghast_Tear.png",
+      "item": "ghast tear",
+      "amounts": "1‒2",
+      "scale": "0.2",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Magma_Cream.png",
+      "item": "magma cream",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Nautilus_Shell.png",
+      "item": "nautilus shell",
+      "amounts": "1‒8",
+      "scale": "0",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Turtle_Egg.png",
+      "item": "turtle egg",
+      "amounts": "1‒32",
+      "scale": "0",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Wither_Skeleton_Skull.png",
+      "item": "wither skeleton skull",
+      "amounts": "1‒2",
+      "scale": "0.05",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Phantom_Membrane.png",
+      "item": "phantom membrane",
+      "amounts": "1‒2",
+      "scale": "0.2",
+      "weight": "1"
+    }
+  ],
+  "misc": [
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Pointed_Dripstone.png",
+      "item": "pointed dripstone",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Gold_Ingot.png",
+      "item": "gold ingot",
+      "amounts": "7‒14",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Iron_Ingot.png",
+      "item": "iron ingot",
+      "amounts": "14‒22",
+      "scale": "1",
+      "weight": "24"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Redstone.png",
+      "item": "redstone",
+      "amounts": "8‒14",
+      "scale": "1",
+      "weight": "10"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Emerald.png",
+      "item": "emerald",
+      "amounts": "2‒7",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Lapis_Lazuli.png",
+      "item": "lapis lazuli",
+      "amounts": "8‒14",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Copper_Ingot.png",
+      "item": "copper ingot",
+      "amounts": "4‒32",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Coal.png",
+      "item": "coal",
+      "variations": [
+        "coal",
+        "charcoal"
+      ],
+      "amounts": "4‒10",
+      "scale": "1",
+      "weight": "24"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Amethyst_Shard.png",
+      "item": "amethyst shard",
+      "amounts": "4‒16",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Diamond.png",
+      "item": "diamond",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Spore_Blossom.png",
+      "item": "spore blossom",
+      "amounts": "1‒8",
+      "scale": "0.8",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Glowstone_Dust.png",
+      "item": "glowstone dust",
+      "amounts": "3‒9",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Quartz.png",
+      "item": "quartz",
+      "amounts": "3‒6",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Name_Tag.png",
+      "item": "name tag",
+      "amounts": "1‒16",
+      "scale": "0",
+      "weight": "3"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Prismarine_Shard.png",
+      "item": "prismarine shard",
+      "amounts": "1‒5",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Prismarine_Crystals.png",
+      "item": "prismarine crystals",
+      "amounts": "1‒5",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Chorus_Flower.png",
+      "item": "chorus flower",
+      "amounts": "4‒20",
+      "scale": "0",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Dead_Brain_Coral.png",
+      "item": "dead coral",
+      "variations": [
+        "dead brain coral",
+        "dead bubble coral",
+        "dead fire coral",
+        "dead horn coral",
+        "dead tube coral",
+        "dead tube coral fan",
+        "dead brain coral fan",
+        "dead bubble coral fan",
+        "dead fire coral fan",
+        "dead horn coral fan"
+      ],
+      "amounts": "4‒128",
+      "scale": "0",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Brain_Coral.png",
+      "item": "coral",
+      "variations": [
+        "brain coral",
+        "bubble coral",
+        "fire coral",
+        "horn coral",
+        "tube coral",
+        "tube coral fan",
+        "brain coral fan",
+        "bubble coral fan",
+        "fire coral fan",
+        "horn coral fan"
+      ],
+      "amounts": "4‒128",
+      "scale": "0",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Totem_Of_Undying.png",
+      "item": "totem of undying",
+      "amounts": "1‒8",
+      "scale": "0",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Saddle.png",
+      "item": "saddle",
+      "amounts": "1‒2",
+      "scale": "0.5",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Cobweb.png",
+      "item": "cobweb",
+      "amounts": "16‒256",
+      "scale": "0",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sponge.png",
+      "item": "sponge",
+      "amounts": "1‒12",
+      "scale": "0",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Nether_Star.png",
+      "item": "nether star",
+      "amounts": "1‒8",
+      "scale": "0",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Trident.png",
+      "item": "trident",
+      "amounts": "1‒5",
+      "scale": "0",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Music_Disc_13.png",
+      "item": "music disc 13, music disc cat, music disc blocks, music disc chirp, music disc far, music disc mall, music disc mellohi, music disc stal, music disc strad, music disc ward, music disc 11, music disc wait, music disc otherside, music disc pigstep",
+      "variations": [
+        "music disc 13",
+        "music disc cat",
+        "music disc blocks",
+        "music disc chirp",
+        "music disc far",
+        "music disc mall",
+        "music disc mellohi",
+        "music disc stal",
+        "music disc strad",
+        "music disc ward",
+        "music disc 11",
+        "music disc wait",
+        "music disc otherside",
+        "music disc pigstep"
+      ],
+      "amounts": "1‒10",
+      "scale": "0",
+      "weight": "1"
+    }
+  ],
+  "resources": [
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Cobblestone.png",
+      "item": "cobblestone",
+      "amounts": "4‒12",
+      "scale": "1",
+      "weight": "48"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Diorite.png",
+      "item": "diorite",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Andesite.png",
+      "item": "andesite",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Granite.png",
+      "item": "granite",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Stone.png",
+      "item": "stone",
+      "amounts": "2‒8",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Gravel.png",
+      "item": "gravel",
+      "amounts": "2‒8",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sand.png",
+      "item": "sand",
+      "variations": [
+        "sand",
+        "red sand"
+      ],
+      "amounts": "2‒8",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Dirt.png",
+      "item": "dirt",
+      "amounts": "4‒12",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Moss_Block.png",
+      "item": "moss block",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_White_Wool.png",
+      "item": "wool",
+      "variations": [
+        "white wool",
+        "orange wool",
+        "magenta wool",
+        "light blue wool",
+        "yellow wool",
+        "lime wool",
+        "pink wool",
+        "gray wool",
+        "light gray wool",
+        "cyan wool",
+        "purple wool",
+        "blue wool",
+        "brown wool",
+        "green wool",
+        "red wool",
+        "black wool"
+      ],
+      "amounts": "2‒4",
+      "scale": "0.8",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Glass.png",
+      "item": "glass",
+      "variations": [
+        "glass",
+        "white stained glass",
+        "orange stained glass",
+        "magenta stained glass",
+        "light blue stained glass",
+        "yellow stained glass",
+        "lime stained glass",
+        "pink stained glass",
+        "gray stained glass",
+        "light gray stained glass",
+        "cyan stained glass",
+        "purple stained glass",
+        "blue stained glass",
+        "brown stained glass",
+        "green stained glass",
+        "red stained glass",
+        "black stained glass"
+      ],
+      "amounts": "1‒3",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Smooth_Stone.png",
+      "item": "smooth stone",
+      "amounts": "1‒8",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Bricks.png",
+      "item": "bricks",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Netherrack.png",
+      "item": "netherrack",
+      "amounts": "4‒12",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Soul_Sand.png",
+      "item": "soul sand",
+      "amounts": "1‒4",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Soul_Soil.png",
+      "item": "soul soil",
+      "amounts": "1‒4",
+      "scale": "0.8",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Basalt.png",
+      "item": "basalt",
+      "amounts": "2‒8",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_White_Terracotta.png",
+      "item": "terracotta",
+      "variations": [
+        "white terracotta",
+        "orange terracotta",
+        "magenta terracotta",
+        "light blue terracotta",
+        "yellow terracotta",
+        "lime terracotta",
+        "pink terracotta",
+        "gray terracotta",
+        "light gray terracotta",
+        "cyan terracotta",
+        "purple terracotta",
+        "blue terracotta",
+        "brown terracotta",
+        "green terracotta",
+        "red terracotta",
+        "black terracotta",
+        "terracotta"
+      ],
+      "amounts": "1‒5",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Deepslate.png",
+      "item": "deepslate",
+      "variations": [
+        "deepslate", "cobbled deepslate"
+      ],
+      "amounts": "2‒16",
+      "scale": "1",
+      "weight": "32"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Tuff.png",
+      "item": "tuff",
+      "amounts": "2‒8",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Mossy_Cobblestone.png",
+      "item": "mossy cobblestone",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Obsidian.png",
+      "item": "obsidian",
+      "amounts": "1‒2",
+      "scale": "0.6",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Ice.png",
+      "item": "ice",
+      "amounts": "2‒16",
+      "scale": "1",
+      "weight": "16"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Blue_Ice.png",
+      "item": "blue ice",
+      "amounts": "3‒10",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_White_Concrete.png",
+      "item": "concrete",
+      "variations": [
+        "white concrete",
+        "orange concrete",
+        "magenta concrete",
+        "light blue concrete",
+        "yellow concrete",
+        "lime concrete",
+        "pink concrete",
+        "gray concrete",
+        "light gray concrete",
+        "cyan concrete",
+        "purple concrete",
+        "blue concrete",
+        "brown concrete",
+        "green concrete",
+        "red concrete",
+        "black concrete"
+      ],
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_White_Concrete_Powder.png",
+      "item": "white concrete powder, orange concrete powder, magenta concrete powder, light blue concrete powder, yellow concrete powder, lime concrete powder, pink concrete powder, gray concrete powder, light gray concrete powder, cyan concrete powder, purple concrete powder, blue concrete powder, brown concrete powder, green concrete powder, red concrete powder, black concrete powder",
+      "variations":[
+        "white concrete powder",
+        "orange concrete powder",
+        "magenta concrete powder",
+        "light blue concrete powder",
+        "yellow concrete powder",
+        "lime concrete powder",
+        "pink concrete powder",
+        "gray concrete powder",
+        "light gray concrete powder",
+        "cyan concrete powder",
+        "purple concrete powder",
+        "blue concrete powder",
+        "brown concrete powder",
+        "green concrete powder",
+        "red concrete powder",
+        "black concrete powder"
+      ],
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Blackstone.png",
+      "item": "blackstone",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "6"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Dripstone_Block.png",
+      "item": "dripstone block",
+      "amounts": "2‒8",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Prismarine.png",
+      "item": "prismarine",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Oak_Log.png",
+      "item": "oak log",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Spruce_Log.png",
+      "item": "spruce log",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Birch_Log.png",
+      "item": "birch log",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "12"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Jungle_Log.png",
+      "item": "jungle log",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Acacia_Log.png",
+      "item": "acacia log",
+      "amounts": "1‒1",
+      "scale": "0.7",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Dark_Oak_Log.png",
+      "item": "dark oak log",
+      "amounts": "1‒2",
+      "scale": "1",
+      "weight": "8"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Purpur_Block.png",
+      "item": "purpur block",
+      "amounts": "1‒2",
+      "scale": "0.4",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Mycelium.png",
+      "item": "mycelium",
+      "amounts": "1‒2",
+      "scale": "0.4",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_End_Stone.png",
+      "item": "end stone",
+      "amounts": "1‒4",
+      "scale": "1",
+      "weight": "5"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Magma_Block.png",
+      "item": "magma block",
+      "amounts": "1‒2",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Nether_Wart_Block.png",
+      "item": "nether wart block",
+      "amounts": "1‒1",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Warped_Wart_Block.png",
+      "item": "warped wart block",
+      "amounts": "1‒1",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Shroomlight.png",
+      "item": "shroomlight",
+      "amounts": "1‒1",
+      "scale": "0.8",
+      "weight": "2"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Podzol.png",
+      "item": "podzol",
+      "amounts": "1‒1",
+      "scale": "0.5",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Crimson_Stem.png",
+      "item": "crimson stem",
+      "amounts": "1‒1",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Warped_Stem.png",
+      "item": "warped stem",
+      "amounts": "1‒1",
+      "scale": "0.8",
+      "weight": "4"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Crying_Obsidian.png",
+      "item": "crying obsidian",
+      "amounts": "1‒1",
+      "scale": "0.4",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Calcite.png",
+      "item": "calcite",
+      "amounts": "1‒1",
+      "scale": "0.4",
+      "weight": "1"
+    },
+    {
+      "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Rooted_Dirt.png",
+      "item": "rooted dirt",
+      "amounts": "1‒1",
+      "scale": "0.3",
+      "weight": "2"
+    }
+  ]
+}

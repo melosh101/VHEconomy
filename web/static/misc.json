@@ -1,0 +1,184 @@
+[
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Pointed_Dripstone.png",
+    "item": "pointed dripstone",
+    "amounts": "1‒4",
+    "scale": "1",
+    "weight": "8"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Gold_Ingot.png",
+    "item": "gold ingot",
+    "amounts": "7‒14",
+    "scale": "1",
+    "weight": "16"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Iron_Ingot.png",
+    "item": "iron ingot",
+    "amounts": "14‒22",
+    "scale": "1",
+    "weight": "24"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Redstone.png",
+    "item": "redstone",
+    "amounts": "8‒14",
+    "scale": "1",
+    "weight": "10"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Emerald.png",
+    "item": "emerald",
+    "amounts": "2‒7",
+    "scale": "1",
+    "weight": "12"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Lapis_Lazuli.png",
+    "item": "lapis lazuli",
+    "amounts": "8‒14",
+    "scale": "1",
+    "weight": "16"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Copper_Ingot.png",
+    "item": "copper ingot",
+    "amounts": "4‒32",
+    "scale": "1",
+    "weight": "32"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Coal.png",
+    "item": "coal, charcoal",
+    "amounts": "4‒10",
+    "scale": "1",
+    "weight": "24"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Amethyst_Shard.png",
+    "item": "amethyst shard",
+    "amounts": "4‒16",
+    "scale": "1",
+    "weight": "4"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Diamond.png",
+    "item": "diamond",
+    "amounts": "1‒4",
+    "scale": "1",
+    "weight": "6"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Spore_Blossom.png",
+    "item": "spore blossom",
+    "amounts": "1‒8",
+    "scale": "0.8",
+    "weight": "2"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Glowstone_Dust.png",
+    "item": "glowstone dust",
+    "amounts": "3‒9",
+    "scale": "1",
+    "weight": "6"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Quartz.png",
+    "item": "quartz",
+    "amounts": "3‒6",
+    "scale": "1",
+    "weight": "8"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Name_Tag.png",
+    "item": "name tag",
+    "amounts": "1‒16",
+    "scale": "0",
+    "weight": "3"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Prismarine_Shard.png",
+    "item": "prismarine shard",
+    "amounts": "1‒5",
+    "scale": "1",
+    "weight": "8"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Prismarine_Crystals.png",
+    "item": "prismarine crystals",
+    "amounts": "1‒5",
+    "scale": "1",
+    "weight": "4"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Chorus_Flower.png",
+    "item": "chorus flower",
+    "amounts": "4‒20",
+    "scale": "0",
+    "weight": "2"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Dead_Brain_Coral.png",
+    "item": "dead brain coral, dead bubble coral, dead fire coral, dead horn coral, dead tube coral, dead tube coral fan, dead brain coral fan, dead bubble coral fan, dead fire coral fan, dead horn coral fan",
+    "amounts": "4‒128",
+    "scale": "0",
+    "weight": "2"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Brain_Coral.png",
+    "item": "brain coral, bubble coral, fire coral, horn coral, tube coral, tube coral fan, brain coral fan, bubble coral fan, fire coral fan, horn coral fan",
+    "amounts": "4‒128",
+    "scale": "0",
+    "weight": "2"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Totem_Of_Undying.png",
+    "item": "totem of undying",
+    "amounts": "1‒8",
+    "scale": "0",
+    "weight": "1"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Saddle.png",
+    "item": "saddle",
+    "amounts": "1‒2",
+    "scale": "0.5",
+    "weight": "4"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Cobweb.png",
+    "item": "cobweb",
+    "amounts": "16‒256",
+    "scale": "0",
+    "weight": "2"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Sponge.png",
+    "item": "sponge",
+    "amounts": "1‒12",
+    "scale": "0",
+    "weight": "1"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Nether_Star.png",
+    "item": "nether star",
+    "amounts": "1‒8",
+    "scale": "0",
+    "weight": "1"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Trident.png",
+    "item": "trident",
+    "amounts": "1‒5",
+    "scale": "0",
+    "weight": "2"
+  },
+  {
+    "img": "https://wiki.vaulthunters.gg/Special:FilePath/Invicon_Music_Disc_13.png",
+    "item": "music disc 13, music disc cat, music disc blocks, music disc chirp, music disc far, music disc mall, music disc mellohi, music disc stal, music disc strad, music disc ward, music disc 11, music disc wait, music disc otherside, music disc pigstep",
+    "amounts": "1‒10",
+    "scale": "0",
+    "weight": "1"
+  }
+]
