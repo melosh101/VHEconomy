@@ -1,4 +1,4 @@
-import seedData from "../../../../static/staticData.json"
+import seedData from '../../../../static/staticData.json';
 import { db } from '$lib/server/db/index';
 import { itemCategory, items } from '$lib/server/db/schema';
 
@@ -6,7 +6,6 @@ const categories = Object.keys(seedData);
 
 export async function seedDB() {
 	for (const category of categories) {
-
 		await db.transaction(async (tx) => {
 			const cat = await db
 				.insert(itemCategory)
@@ -25,8 +24,8 @@ export async function seedDB() {
 					scale: string;
 					weight: string;
 					variations?: string[];
+					automated?: boolean;
 				};
-
 
 				await tx.insert(items).values({
 					item: item.item,
@@ -35,10 +34,10 @@ export async function seedDB() {
 					variations: item.variations,
 					scale: Number.parseFloat(item.scale),
 					weight: Number.parseFloat(item.weight),
-					categoryId: cat[0].id
+					categoryId: cat[0].id,
+					automated: item.automated || false
 				});
 			}
 		});
-
 	}
 }

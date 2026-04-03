@@ -3,8 +3,6 @@
 	const { data }: PageProps = $props();
 </script>
 
-<li>{JSON.stringify(data.user)}</li>
-
 <h1>Teams</h1>
 {#if data.teams.length == 0}
 	<h2>The Teams have yet to be distrobuted</h2>

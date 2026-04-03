@@ -15,6 +15,14 @@ export const auth = betterAuth({
 			clientSecret: env.DISCORD_CLIENT_SECRET
 		}
 	},
+	user: {
+		additionalFields: {
+			ign: { type: 'string' },
+			isAdmin: { type: 'boolean' },
+			teamId: { type: 'string' },
+			roleId: { type: 'string' }
+		}
+	},
 	plugins: [
 		sveltekitCookies(getRequestEvent) // make sure this is the last plugin in the array
 	]

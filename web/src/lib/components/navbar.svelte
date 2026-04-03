@@ -11,6 +11,9 @@
 			<li class="flex"><a class="my-auto" href="/teams">Teams</a></li>
 			<li class="flex"><a class="my-auto" href="/items">Items</a></li>
 			<li class="flex"><a class="my-auto" href="/fun">Fun</a></li>
+			{#if user.isAdmin}
+				<li class="flex"><a class="my-auto" href="/dashboard">dashboard</a></li>
+			{/if}
 		</ul>
 	</nav>
 
