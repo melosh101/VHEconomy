@@ -9,10 +9,10 @@ export const user = sqliteTable('user', {
 	email: text('email').notNull().unique(),
 	emailVerified: integer('email_verified', { mode: 'boolean' }).default(false).notNull(),
 	image: text('image'),
-	teamId: text('team_id')
-		.references(() => teams.id),
-	roleId: text('role_id')
-		.references(() => roles.id),
+	ign: text('ign'),
+	isAdmin: integer('is_admin', { mode: 'boolean' }).default(false).notNull(),
+	teamId: text('team_id').references(() => teams.id),
+	roleId: text('role_id').references(() => roles.id),
 	createdAt: integer('created_at', { mode: 'timestamp_ms' })
 		.default(sql`(cast(unixepoch('subsecond') * 1000 as integer))`)
 		.notNull(),
@@ -108,7 +108,7 @@ export const sessionRelations = relations(session, ({ one }) => ({
 	user: one(user, {
 		fields: [session.userId],
 		references: [user.id]
-	}),
+	})
 }));
 
 export const accountRelations = relations(account, ({ one }) => ({
